@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23613" started-at="2020-06-27T06:39:31Z" finished-at="2020-06-27T06:39:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23613" started-at="2020-06-27T06:39:31Z" finished-at="2020-06-27T06:39:55Z">
+      <class name="dd_main.MainTest">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:dd_main.MainTest@a67c67e]" name="launchApp" is-config="true" duration-ms="13589" started-at="2020-06-27T12:09:31Z" finished-at="2020-06-27T12:09:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="signUp()[pri:0, instance:dd_main.MainTest@a67c67e]" name="signUp" duration-ms="7913" started-at="2020-06-27T12:09:45Z" finished-at="2020-06-27T12:09:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:dd_main.MainTest@a67c67e]" name="logOut" is-config="true" duration-ms="2070" started-at="2020-06-27T12:09:52Z" finished-at="2020-06-27T12:09:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+      </class> <!-- dd_main.MainTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
